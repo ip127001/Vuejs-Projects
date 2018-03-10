@@ -1,5 +1,5 @@
 Vue js projects 
 
-first= using basic conditions and list rendering
+player vs monster: using basic conditions and list rendering
 
-second=  using communications between components
+quote-adder: using communications between components with props, slots and custom events.
