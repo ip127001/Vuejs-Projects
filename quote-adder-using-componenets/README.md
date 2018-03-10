@@ -1,18 +1,8 @@
-# vue-cli
+to start with this project
+1. first register a component "QuoteGrid.vue" which contains all quote with "App.vue".
+2. Second register a new component "new-quote" which create new quote with "App.vue".
+3. Make a delete functionality to delete quote in "QuoteGrid" which wraps all quotes.
+4. Finally make a progress bar with state management which keeps tracks of no of quotes.
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+use props and slots to pass data between components.
+use custom events so parent can listen changes in child components. 
