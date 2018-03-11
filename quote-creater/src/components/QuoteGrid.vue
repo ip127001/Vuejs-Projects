@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <app-quote v-for="quote in quotes">{{ quote }}</app-quote>
+    <app-quote v-for="quote in quotes" :key="quote.id">{{ quote }}</app-quote>
   </div>
 </template>
 

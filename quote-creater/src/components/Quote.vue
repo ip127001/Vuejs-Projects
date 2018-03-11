@@ -17,8 +17,7 @@ export default {
 .box {
   padding: 10px;
   border: 1px solid lightseagreen;
-  box shadow: 0px 3px 3px 0px rgba(0, 0, 0, .19);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, .19);
   margin: 10px;
-
 }
 </style>
