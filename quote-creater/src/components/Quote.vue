@@ -1,9 +1,9 @@
 <template>
-  <div class="row">
-    <div class="col-sm-12 col-lg-6 box">
+    <div class="col-sm-6 col-lg-3 col-md-4">
+      <div class="box">
         <slot></slot>
+      </div>
     </div>
-  </div>
 </template>
 
 <script>
