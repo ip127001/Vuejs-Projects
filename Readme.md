@@ -4,4 +4,4 @@ Vue js projects
 
 2. quote-adder: using communications between components with props, slots and custom events.
 
-3. question and answe
+3. question and answer: Animation in vuejs
