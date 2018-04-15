@@ -1,7 +1,8 @@
-Vue js projects 
+# Vue js projects 
 
-1. player vs monster: using basic conditions and list rendering
+**1. player vs monster**: using basic conditions and list rendering
 
-2. quote-adder: using communications between components with props, slots and custom events.
+**2. question and answer**: Animation in vuejs
 
-3. question and answer: Animation in vuejs
+**3. quote-adder**: using communications between components with props, slots and custom events.
+ 
